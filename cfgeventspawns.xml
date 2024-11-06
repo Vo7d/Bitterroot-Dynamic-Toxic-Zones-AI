@@ -1,4 +1,4 @@
-    <event name="StaticContaminatedArea">
+    	<event name="StaticContaminatedArea">
 		<zone smin="0" smax="0" dmin="10" dmax="15" r="100" />
 		
 		<pos x="1671" z="9979" /> 			<!--Bagdad-->
