@@ -6,4 +6,6 @@ Add the content of these files into the respecive files.
 mpmissions/empty.Bitteroot/db/events.xml
 mpmissions/empty.Bitteroot/cfgeventspawns.xml
 
+Always verify your files before uploading them to your server.
+
 Enjoy.
