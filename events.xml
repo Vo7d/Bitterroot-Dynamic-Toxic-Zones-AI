@@ -7,7 +7,7 @@
         <saferadius>0</saferadius>
         <distanceradius>100</distanceradius>
         <cleanupradius>50</cleanupradius>
-		<secondary>InfectedNBC</secondary>
+	<secondary>InfectedNBC</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>parent</limit>
